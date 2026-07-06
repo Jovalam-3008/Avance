@@ -15,6 +15,8 @@ El proyecto parte de cuatro datasets principales y busca construir una propuesta
 +-- README.md
 +-- Descripcion.txt
 +-- plan_proyecto_bonsai.md
++-- docs/
+    +-- fase_01_comprension_y_evaluacion.md
 +-- data/
     +-- catalogo_productos.csv
     +-- especificaciones_cajas.csv
@@ -83,6 +85,12 @@ El plan detallado esta documentado en:
 
 ```text
 plan_proyecto_bonsai.md
+```
+
+Entregables por fase:
+
+```text
+docs/fase_01_comprension_y_evaluacion.md
 ```
 
 Fases principales:
