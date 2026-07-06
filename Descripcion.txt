@@ -1,0 +1,15 @@
+Overview
+Ayudá a Bonsai Corp a optimizar su portafolio
+Bonsai Corp distribuye brócoli congelado a cinco regiones desde cinco plantas, y arrastra un catálogo de cientos de cajas distintas que dispara los costos de packaging, logística e inventario. Tu misión: consolidar ese catálogo, optimizar el uso del pallet y proponer un protocolo que sirva también para los lanzamientos futuros. ¿Te animás al desafío?
+
+
+Dataset Description
+Los datos se organizan en cuatro archivos:
+
+El catálogo de productos es la tabla central e incluye un identificador único por SKU (codigo_producto), su descripción comercial, peso neto por caja (peso_neto_caja) y la clave que lo vincula al tipo de caja asignado (caja_tipo_id).
+
+Las especificaciones de cajas contienen las dimensiones interiores y exteriores de cada tipo (caja_interior_largo, caja_interior_ancho, caja_interior_alto, caja_exterior_largo, caja_exterior_ancho, caja_exterior_alto), junto con los parámetros de apilado en pallet (cantidad_cajas_alto, cantidad_cajas_largo, cantidad_cajas_ancho, cantidad_cajas_total, utilizacion).
+
+Las operaciones de planta registran los volúmenes anuales por SKU (volumen_producto_total) y los costos logísticos asociados (costo_pallets_total, costo_total).
+
+El archivo de compras consolida los volúmenes por tipo de caja y planta (volumen_tipo_planta_*), y define los precios unitarios resultantes de aplicar el grosor del cartón y el descuento por volumen correspondiente.
