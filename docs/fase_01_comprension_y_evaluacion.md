@@ -19,14 +19,14 @@ Que combinacion de tipos de caja deberia mantener Bonsai Corp para atender su ca
 
 ## 3. Preguntas analiticas
 
-- Cuales son las cajas con mayor volumen y mayor impacto economico?
-- Cuales son las cajas de bajo volumen o uso marginal?
-- Que cajas tienen baja utilizacion de pallet?
-- Que SKUs podrian migrar a una caja existente?
-- Que cajas conviene mantener aunque no sean las mas baratas?
-- Que ahorros se generan por packaging, pallets y descuentos por volumen?
-- Que plantas concentran mayor oportunidad de ahorro?
-- Que cambios son faciles de implementar y cuales requieren validacion adicional?
+- ¿Cuales son las cajas con mayor volumen y mayor impacto economico?
+- ¿Cuales son las cajas de bajo volumen o uso marginal?
+- ¿Que cajas tienen baja utilizacion de pallet?
+- ¿Que SKUs podrian migrar a una caja existente?
+- ¿Que cajas conviene mantener aunque no sean las mas baratas?
+- ¿Que ahorros se generan por packaging, pallets y descuentos por volumen?
+- ¿Que plantas concentran mayor oportunidad de ahorro?
+- ¿Que cambios son faciles de implementar y cuales requieren validacion adicional?
 
 ## 4. Alcance del proyecto
 
@@ -41,7 +41,7 @@ Incluido:
 
 Fuera de alcance inicial:
 
-- Redisenio completo de nuevas cajas.
+- Rediseño completo de nuevas cajas.
 - Cambios en peso neto por caja.
 - Cambios en cantidad de paquetes o presentacion comercial.
 - Forecast de demanda futura.
