@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+bonsai_env/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local library caches
+.matplotlib/
+
+# Local outputs
+outputs/
+reports/generated/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
